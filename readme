@@ -1,0 +1,10 @@
+note :
+1. To run this you must have npm installed
+2. this step is using chrome browser if you dont have chrome browser you must change the browser in step 2
+3. this project using testcafe framework
+4. to optimal checking project you can use Visual Studio Code
+5. in this project you must insert your facebook id and password in test script
+
+step to running script:
+1. open command line in the directory project
+2. type -> npx testcafe (browser you use) (file name). example -> npx testcafe chrome TestCases\ProductTrain.js
